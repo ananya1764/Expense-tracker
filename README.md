@@ -1,23 +1,27 @@
-# Expense-tracker
-Features
+# Expense Tracker 🧾
 
-➕ Add expenses by category
+Description
+A beginner-friendly Python expense tracker that allows users to record daily expenses, view category-wise totals, and visualize spending using graphs.
 
-📂 View total expenses per category
+ Features
+- Add expenses with category and amount
+- Store data using JSON file
+- View total expenses by category
+- Display bar graph using matplotlib
 
-🧮 Calculate overall spending
+Tech Stack
+- Python
+- Matplotlib
+- JSON file handling
 
-🔝 Find the most spent category
+ How to Run
+1. Clone the repository
+2. Run `expense_tracker.py`
+3. Follow the menu options
 
-📊 Bar graph visualization of expenses
+ What I Learned
+- Python file handling
+- Working with dictionaries & lists
+- Basic data visualization
+- Structuring a small project
 
-🥧 Pie chart for spending distribution
-
-💾 Save & load data using JSON (data doesn’t disappear!)
-
-
-Technologies Used
-Python
-JSON (for data storage)
-Matplotlib (for graphs)
-Jupyter Notebook / Python Script
